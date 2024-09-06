@@ -1,5 +1,3 @@
-
-
 ### Design Files
 
 <details>
@@ -246,24 +244,4 @@ Use these files to complete the implementation:
 
 <br />
 
-**Text Colors**
 
-<div style="background-color: #ffffff; width: 150px; padding: 10px; color: black">Hex: #ffffff</div>
-<div style="background-color: #18ed66; width: 150px; padding: 10px; color: black">Hex: #18ed66</div>
-<div style="background-color: #e31a1a; width: 150px; padding: 10px; color: black">Hex: #e31a1a</div>
-
-</details>
-
-<details>
-<summary>Font-families</summary>
-
-- Bree Serif
-
-</details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
