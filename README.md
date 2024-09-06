@@ -181,30 +181,9 @@ Use these files to complete the implementation:
 
 </details>
 
-### Important Note
 
-<details>
-<summary>Click to view</summary>
 
-<br/>
 
-**The following instructions are required for the tests to pass**
-
-- The banner image in the Team Matches Route should have the alt attribute value as `team banner`
-- The alt attribute values for the images received from the response are given in the **Example response**
-- The API responses received from the given api URLs should be converted to camel case
-- Wrap the `Loader` component with an HTML container element and add the `testid` attribute value as `loader` to it as shown below
-  ```
-  <div testid="loader">
-      <Loader type="Oval" color="#ffffff" height={50} width={50} />
-  </div>
-  ```
-- Render HomeRoute component when path in URL matches `/`
-- Render TeamMatchesRoute component when path in URL matches `/team-matches/:id`
-- No need to use the `BrowserRouter` in `App.js` as we have already included in `index.js` file
-- Each TeamMatchesRoute should have different gradient colors as background based on the selected team
-
-</details>
 
 
 
